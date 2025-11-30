@@ -8,7 +8,7 @@
 
 
 
-## This project is my first Linux security hardening lab. I learned how to secure an Ubuntu server step by step using real-world security engineering methods. This includes SSH hardening, firewall configuration, Fail2Ban, audit logs, and automatic security updates.
+### This project is my first Linux security hardening lab. I learned how to secure an Ubuntu server step by step using real-world security engineering methods. This includes SSH hardening, firewall configuration, Fail2Ban, audit logs, and automatic security updates.
 
 
 
@@ -273,5 +273,6 @@ sudo systemctl status unattended-upgrades
 sudo unattended-upgrade --dry-run --debug
 
 ```
+
 
 
