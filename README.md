@@ -274,5 +274,13 @@ sudo unattended-upgrade --dry-run --debug
 
 ```
 
+![SSH Hardening Status](ssh_hardening_status.png)
+![Firewall UFW Status](Firewall (UFW)_status.png)
+![Fail2Ban Status](fail2ban_status.png)
+![auditd Status](auditd_status.png)
+![Unattended Upgrades Status](Automated Security Updates_status.png)
+
+
+
 
 
