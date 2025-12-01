@@ -1,4 +1,4 @@
-# Linux-Security-Hardening-Project
+# Linux Enterprise Security Hardening-Project
 
 
 
@@ -287,6 +287,7 @@ sudo unattended-upgrade --dry-run --debug
 
 ## 5. Unattended Security Updates Validation
 ![Unattended Updates Status](Automated%20Security%20Updates_status.png)
+
 
 
 
